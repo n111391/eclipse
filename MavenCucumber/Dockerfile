@@ -1,4 +1,4 @@
-# use a cucumbers base image
+# use a cucumbers basde image
 FROM scratch
 
 # set maintainer
