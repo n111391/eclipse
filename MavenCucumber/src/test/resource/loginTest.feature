@@ -8,4 +8,3 @@ Feature: Proof of concept of cucucmber test running in firefox browser
       | url                          | Username | Password |
       | http://newtours.demoaut.com/ | mercury  | mercury  |
 
- 
