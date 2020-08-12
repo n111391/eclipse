@@ -9,7 +9,7 @@ import cucumber.api.junit.Cucumber;
 @CucumberOptions(
 		format= {"pretty", "html:target/html/","json:target/json/output.json"},
 		features="src/test/resource",
-		tags= {"@firefox"}
+		tags= {"@chrome"}
 		
 		)
 public class RunnerTest {
